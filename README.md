@@ -17,5 +17,5 @@ Esta implementación está creada para el uso interno administrativo. Como muest
   <img src="https://github.com/tomepro/ConexionMySql/blob/6b39bdb8a3a8ecfb8fd9b5d512ba5002ddc9c2d3/img/Certificado.jpg" width=550>
 </p>
 
-## dependencias
+## Dependencias
   - [MySQL C++ Connector](https://dev.mysql.com/downloads/connector/cpp/)
