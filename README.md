@@ -1,4 +1,8 @@
-# ConexionMySql : ABP Grupo 2 : M3/M5
+<p align="center">
+  <img src="https://github.com/tomepro/ConexionMySql/blob/54c7c8d744fdc1d1059896fcef04c66811ac6357/img/header.png">
+</p>
+
+# ConexionMySQL : ABP Grupo 2 : M3/M5
 Nuestra implementación para los módulos M3 y M5 en el Proyecto.
 
 ## Contenido
