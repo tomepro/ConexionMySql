@@ -1,9 +1,9 @@
-# ConexionMySql : ABP Grupo 1 : M3/M5
+# ConexionMySql : ABP Grupo 2 : M3/M5
 Nuestra implementación para los módulos M3 y M5 en el Proyecto.
 
 ## Contenido
 - [Esquema](#esquema)
-- [Funcionamiento](#funcionamento)
+- [Funcionamiento](#funcionamiento)
 - [Dependencias](#dependencias)
 
 ## Esquema
@@ -17,5 +17,5 @@ Esta implementación está creada para el uso interno administrativo. Como muest
   <img src="https://github.com/tomepro/ConexionMySql/blob/6b39bdb8a3a8ecfb8fd9b5d512ba5002ddc9c2d3/img/Certificado.jpg" width=550>
 </p>
 
-## Dependencias
+## dependencias
   - [MySQL C++ Connector](https://dev.mysql.com/downloads/connector/cpp/)
